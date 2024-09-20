@@ -57,5 +57,6 @@ Total sales by year:
 •	2003: 3.51 M
 •	2004: 4.72 M
 •	2005: 1.79 M
-Summary
+
+Summary:
 This sales data analysis provides an overview of sales performance across various dimensions. The total sales amount to 10.03 million. The top-performing cities are Madrid and San Rafael, while Spain and the USA lead in country wise sales. Medium-sized deals constitute the majority of sales (49.03%). Classic Cars are the top product line, contributing to 39.07% of sales. The order status shows a high number of shipped orders (2617), and the top product code in sales is S18_3232 (288.25K). The largest customer is Euro S. with sales amounting to 0.91M. Price vs. Sales data highlight significant sales contributions from the highest price bracket (85.376) totalling 7,538.66K. 
